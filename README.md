@@ -12,11 +12,6 @@ This code documentation my learning path about data structures with python
 ### Objectives
 
 - Install the latest version of Python.
-- Use venv to isolate dependencies.
-- Install an editor (optional).
-- Install the Cloud SDK (optional).
-- Install the Cloud Client Libraries for Python (optional).
-- Install other useful tools.
 
 ### Step
 
@@ -42,11 +37,6 @@ pip --version
 ```
 
 
-### Installing the Cloud Client Libraries for Python
-
-```
-pip install --upgrade google-cloud-storage
-```
 
 ## Mac Os
 ### Setting up a Python development environment on Mac
@@ -54,11 +44,7 @@ pip install --upgrade google-cloud-storage
 ### Objectives
 
 - Install the latest version of Python.
-- Use venv to isolate dependencies.
-- Install an editor (optional).
-- Install the Cloud SDK (optional).
-- Install the Cloud Client Libraries for Python (optional).
-- Install other useful tools.
+
 
 ### Step
 
@@ -84,11 +70,7 @@ python --version
 pip --version
 ```
 
-### Installing the Cloud Client Libraries for Python
 
-```
-pip install --upgrade google-cloud-storage
-```
 
 ## Windows
 
@@ -97,11 +79,7 @@ pip install --upgrade google-cloud-storage
 ### Objectives
 
 - Install the latest version of Python.
-- Use venv to isolate dependencies.
-- Install an editor (optional).
-- Install the Cloud SDK (optional).
-- Install the Cloud Client Libraries for Python (optional).
-- Install other useful tools.
+
 
 ### Step
 
@@ -126,8 +104,3 @@ To verify the version of pip that is available, run the following command:
 pip --version
 ```
 
-### Installing the Cloud Client Libraries for Python
-
-```
-pip install --upgrade google-cloud-storage
-```
